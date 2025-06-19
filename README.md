@@ -1,8 +1,8 @@
-#Breeze PDF Viewer
+# Breeze PDF Viewer
 
 A modern and stylish PDF viewer built with Python, utilizing CustomTkinter for a sleek user interface, PyMuPDF (fitz) for robust PDF handling, and Pillow for image processing. Breeze PDF Viewer offers essential functionalities for comfortable PDF document viewing.
 
-✨ Features
+# ✨ Features
 Clean and Modern UI: Powered by CustomTkinter, providing a visually appealing and intuitive user experience with support for system-wide light and dark modes.
 
 PDF Viewing: Open and display PDF documents effortlessly.
@@ -19,7 +19,7 @@ Responsive Design: Adapts to window resizing, ensuring the PDF content remains v
 
 Keyboard Shortcuts: Quick access to common functions like opening files, zooming, and page navigation.
 
-🚀 Technologies Used
+# 🚀 Technologies Used
 Python 3.x
 
 CustomTkinter: For modern GUI elements and theme management.
@@ -30,7 +30,7 @@ Pillow (PIL): Image processing library for converting PDF pages to displayable i
 
 CTkMessagebox: Custom message boxes for better UI consistency.
 
-🖥️ Installation and Setup
+# 🖥️ Installation and Setup
 Prerequisites
 Python 3.7+
 
